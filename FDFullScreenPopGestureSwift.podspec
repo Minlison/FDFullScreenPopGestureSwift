@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "https://github.com/Minlison/FDFullScreenPopGestureSwift.git"
+  s.homepage     = "https://github.com/Minlison/FDFullScreenPopGestureSwift"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Minlison" => "yuanhang.1991@icloud.com" }
   s.platform     = :ios, "8.0"
